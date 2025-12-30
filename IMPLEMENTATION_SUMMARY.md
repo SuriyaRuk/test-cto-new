@@ -55,7 +55,7 @@ Successfully implemented Google OAuth authentication in the Next.js 16 applicati
 11. **`.env.local.example`** - Environment template
     - Template for required environment variables
 
-12. **`AUTH_SETUP.md`** - Detailed setup guide
+12. **`docs/GOOGLE_AUTH.md`** - Detailed setup guide
     - Step-by-step Google OAuth setup instructions
     - Environment variable configuration
     - Authentication flow documentation
