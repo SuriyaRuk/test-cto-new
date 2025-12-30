@@ -19,7 +19,7 @@ npm install
 
 ### 2. Configure Google OAuth
 
-See [AUTH_SETUP.md](./AUTH_SETUP.md) for detailed instructions on setting up Google OAuth credentials.
+See [docs/GOOGLE_AUTH.md](./docs/GOOGLE_AUTH.md) for detailed instructions on setting up Google OAuth credentials.
 
 Create a `.env.local` file in the root directory:
 
@@ -55,6 +55,8 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 ## Project Structure
 
 ```
+docs/
+└── GOOGLE_AUTH.md            # Google OAuth setup guide
 app/
 ├── api/
 │   └── auth/
